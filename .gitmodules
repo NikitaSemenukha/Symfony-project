@@ -1,3 +1,0 @@
-[submodule "Docker"]
-	path = Docker
-	url = https://github.com/NikitaSemenukha/Symfony-project.git
